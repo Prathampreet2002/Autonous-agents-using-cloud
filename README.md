@@ -34,12 +34,17 @@ The system consists of:
   - Coordinator Agent
     - AdvancedRAGEngine
       - CloudVectorStore
-      - CloudLLMService
+      - Cloud LLMService
+<img width="1710" height="935" alt="Screenshot 2025-08-11 at 7 08 59 PM" src="https://github.com/user-attachments/assets/a4521019-3fc2-4a89-8400-9fc52f477003" />
+<img width="1710" height="944" alt="Screenshot 2025-08-11 at 7 13 15 PM" src="https://github.com/user-attachments/assets/e7a19fd3-3a56-40d4-aab9-5465ead76895" />
+
+     
+    
 
 Installation
 
 1. Clone the repository:
-   git clone https://github.com/prathampreet2002/autonomous agents using cloud.git
+   git clone https://github.com/prathampreet2002/autonomous-agents-using-cloud.git
    cd autonomous-agents
 
 2. Install dependencies:
