@@ -1,0 +1,7 @@
+langchain
+openai
+pinecone-client
+faiss-cpu
+tiktoken
+duckduckgo-search
+streamlit
